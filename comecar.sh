@@ -9,3 +9,4 @@ rm UBUNTU.zip
 cd UBUNTU
 chmod +x installUbuntu.sh
 bash installUbuntu.sh
+cd UBUNTU
