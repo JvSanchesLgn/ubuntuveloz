@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 apt update
-apt upgarde
+apt upgrade
 apt install unzip
 apt install bash
 unzip UBUNTU.zip
